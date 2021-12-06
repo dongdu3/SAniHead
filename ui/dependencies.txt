@@ -1,0 +1,17 @@
+- python3.6.9
+
+- tensorflow-gpu==1.13.2
+
+- tensorboard==1.13.1
+
+- tflearn==0.5.0
+
+- opencv-python==4.5.3.56
+
+- opencv-contrib-python-headless==3.4.4.19 (if QT crashes with cv2, please check the version)
+
+- dirt (https://github.com/pmh47/dirt) + modification (copy the folder of "dirt" in "dirt/bin" to "/usr/local/lib/python3.6/dist-packages/").
+
+- Eigen3
+
+- Chamfer distance (referred to Pixel2Mesh: https://github.com/nywang16/Pixel2Mesh)
