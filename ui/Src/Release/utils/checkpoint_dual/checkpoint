@@ -1,0 +1,2 @@
+model_checkpoint_path: "sanihead.ckpt"
+all_model_checkpoint_paths: "sanihead.ckpt"

@@ -1,0 +1,5 @@
+curve1: vertical axle wire
+curve2: horizontal axel wire
+curve3: left ear contour
+curve4: right ear contour
+
