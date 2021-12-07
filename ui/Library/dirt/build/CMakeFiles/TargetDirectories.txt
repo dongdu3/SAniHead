@@ -1,0 +1,3 @@
+/media/administrator/Code/don/Framework/AnimalHeadSketchModeler/Library/dirt/build/CMakeFiles/rebuild_cache.dir
+/media/administrator/Code/don/Framework/AnimalHeadSketchModeler/Library/dirt/build/CMakeFiles/edit_cache.dir
+/media/administrator/Code/don/Framework/AnimalHeadSketchModeler/Library/dirt/build/CMakeFiles/rasterise.dir

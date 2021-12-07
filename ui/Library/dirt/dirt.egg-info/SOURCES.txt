@@ -1,0 +1,11 @@
+README.md
+setup.py
+dirt/__init__.py
+dirt/lighting.py
+dirt/matrices.py
+dirt/rasterise_ops.py
+dirt.egg-info/PKG-INFO
+dirt.egg-info/SOURCES.txt
+dirt.egg-info/dependency_links.txt
+dirt.egg-info/requires.txt
+dirt.egg-info/top_level.txt
