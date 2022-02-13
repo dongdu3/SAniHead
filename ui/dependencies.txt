@@ -8,10 +8,10 @@
 
 - opencv-python==4.5.3.56
 
-- opencv-contrib-python-headless==3.4.4.19 (if QT crashes with cv2, please check the version)
+- opencv-contrib-python-headless==3.4.4.19 (if QT crashes with cv2, please check the version of OpenCV).
 
 - DIRT (please install the modified DIRT library in "ui/Library/dirt/", referred to the original version at https://github.com/pmh47/dirt).
 
 - Eigen3
 
-- Chamfer distance (referred to Pixel2Mesh: https://github.com/nywang16/Pixel2Mesh)
+- Chamfer distance (Please compile it referred to Pixel2Mesh: https://github.com/nywang16/Pixel2Mesh).
