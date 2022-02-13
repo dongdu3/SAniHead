@@ -10,7 +10,7 @@
 
 - opencv-contrib-python-headless==3.4.4.19 (if QT crashes with cv2, please check the version)
 
-- dirt (please cmake the source code in "ui/Library/dirt/" referred to https://github.com/pmh47/dirt).
+- DIRT (please install the modified DIRT library in "ui/Library/dirt/", referred to the original version at https://github.com/pmh47/dirt).
 
 - Eigen3
 
