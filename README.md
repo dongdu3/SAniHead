@@ -4,7 +4,7 @@
 Dong Du, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/),  [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/),  Feiyang Wu, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
 In IEEE Transactions on Visualization and Computer Graphics (TVCG), 2020.  
 
-<img src="figures/teaser.png" alt="teaser" style="zoom:15%;" />
+<img src="figures/teaser.png" alt="teaser" style="zoom:13%;" />
 
 ---
 
@@ -27,8 +27,10 @@ We also provide pre-trained models [link](https://mailustceducn-my.sharepoint.co
 #### ui
 We design the user interface for real-time sketch-based animal-head modeling. It is built on Ubuntu 18.04, using Qt Creator 5.9.5.  The [ependencies](ui/dependencies.txt) are also given. To run the demo, a GPU with more than 8 GB memory is required. 
 
-<img src="figures/pipeline_ui.png" alt="pipeline_ui" style="zoom:50%;" />
+<img src="figures/pipeline_ui.png" alt="pipeline_ui" style="zoom:47%;" />
 
+
+---
 
 ### Citation
 If you find our work helpful, please consider citing
