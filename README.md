@@ -13,6 +13,8 @@ In IEEE Transactions on Visualization and Computer Graphics (TVCG), 2020.
 #### sanihead_end2end 
 This implementation has been tested on Ubuntu 18.04, using Python 2.7.12, TensorFlow-gpu 1.13.2, TFLearn 0.5.0, CUDA 10.0, etc.  
 
+<img src="figures/pipeline.png" alt="pipeline" style="zoom:47%;" />
+
 To train the code, please install several external libraries.
 
 1. Chamfer Distance  
