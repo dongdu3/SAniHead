@@ -4,5 +4,5 @@
 Dong Du, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang/),  [Hongbo Fu](http://sweb.cityu.edu.hk/hongbofu/),  Feiyang Wu, [Yizhou Yu](https://i.cs.hku.hk/~yzyu/), [Shuguang Cui](https://sse.cuhk.edu.cn/en/faculty/cuishuguang), [Ligang Liu](http://staff.ustc.edu.cn/~lgliu/)  
 In IEEE Transactions on Visualization and Computer Graphics (TVCG), 2020.  
 
-<img src="figures/teaser.png" alt="teaser" style="zoom:50%;" />
+<img src="figures/teaser.png" alt="teaser" style="zoom:40%;" />
 
